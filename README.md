@@ -21,8 +21,7 @@ This repository also outlines planned enhancements for the project:
 ## Getting Started
 ### Prerequisites
 - GCC Compiler
-- CMake (for building)
-- (Add any other prerequisites here)
+
 
 ### Building
 1. Clone this repository:
