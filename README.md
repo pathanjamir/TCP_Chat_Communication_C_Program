@@ -1,4 +1,5 @@
 # TCP_Chat_Communication_C_Program
+
 Welcome to the TCP Chat Communication C Program repository! This project provides a client-server solution for real-time text-based communication using the TCP protocol. The client and server programs enable users to engage in dynamic chat conversations over a network.
 
 Features
@@ -6,9 +7,9 @@ Chat Communication: Seamless communication between clients and the server using 
 Server-Side: The server handles incoming connections, facilitates chat interactions, and manages client communication.
 Client-Side: Clients can establish connections with the server and engage in chat conversations.
 Utilities: Shared utility functions streamline TCP socket operations and manage chat messages.
+
 Future Implementations
 This repository also outlines planned enhancements for the project:
-
 Resumable File Transfer: Support for resuming interrupted file transfers.
 Encryption: Implementation of encryption mechanisms to secure messages and file transfers.
 Compression: Integration of compression algorithms for optimized file transfers.
@@ -16,11 +17,13 @@ Progress Bar: Addition of a progress bar to visualize ongoing file transfers.
 Timeouts: Incorporation of timeout mechanisms to handle unresponsive clients.
 User Authentication: Implementation of user authentication for enhanced security.
 Multi-threading: Exploration of multi-threading to improve program concurrency.
+
 Getting Started
 Prerequisites
 GCC Compiler
 CMake (for building)
 (Add any other prerequisites here)
+
 Building
 Clone this repository:
 git clone https://github.com/your-username/TCP_Chat_Communication_C_Program.git
