@@ -29,7 +29,9 @@ This repository also outlines planned enhancements for the project:
    ```bash
    git clone https://github.com/your-username/TCP_Chat_Communication_C_Program.git
    cd TCP_Chat_Communication_C_Program
-###Note
+### Note
 -Both the server and the client should be on the same network.
+
 -For the proper functioning of this code TOPOLOGY: SERVER(LAN CLIENT-1)------ONT------CLIENT(LAN CLIENT-2)
+
 -You need to modify the client-side code to work properly. At line number 27: If (inet_pton(AF_INET, "127.0.0.1", &server_address.sin_addr) = 0), configure a server-side LAN IP here.
